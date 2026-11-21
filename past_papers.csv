@@ -1,0 +1,13 @@
+subject_id,topic_id,year,question_text,marks
+S1,T1,2023,"Explain normalization forms with examples",10
+S1,T1,2024,"Differentiate between 3NF and BCNF",8
+S1,T1,2025,"Explain functional dependency and normalization",10
+S1,T2,2024,"Explain SQL joins with examples",8
+S1,T3,2023,"Explain ACID properties",10
+S1,T3,2025,"Explain deadlock in transactions",8
+S2,T5,2024,"Explain Round Robin scheduling",10
+S2,T6,2023,"Explain deadlock conditions",8
+S2,T6,2025,"Explain deadlock avoidance and detection",10
+S3,T8,2024,"Explain merge sort with example",10
+S3,T8,2025,"Compare quick sort and merge sort",8
+S3,T9,2023,"Explain singly and doubly linked lists",8

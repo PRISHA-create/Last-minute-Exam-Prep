@@ -1,0 +1,11 @@
+topic_id,subject_id,unit,topic_name,syllabus_weight,important_notes
+T1,S1,Unit 2,Normalization,4,"1NF 2NF 3NF BCNF functional dependency"
+T2,S1,Unit 3,SQL Joins,3,"INNER JOIN LEFT JOIN RIGHT JOIN"
+T3,S1,Unit 4,Transactions,4,"ACID concurrency deadlock"
+T4,S1,Unit 1,ER Model,2,"entities attributes relationships"
+T5,S2,Unit 2,Process Scheduling,4,"FCFS SJF Round Robin priority scheduling"
+T6,S2,Unit 3,Deadlocks,4,"necessary conditions avoidance detection"
+T7,S2,Unit 1,Processes and Threads,3,"process states threads PCB"
+T8,S3,Unit 2,Sorting Algorithms,4,"bubble sort insertion sort merge sort quick sort"
+T9,S3,Unit 3,Linked Lists,3,"singly doubly circular linked list"
+T10,S3,Unit 1,Time Complexity,3,"Big O notation best worst average case"
